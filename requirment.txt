@@ -1,0 +1,4 @@
+requirment 
+colors
+type option 
+vibrate
