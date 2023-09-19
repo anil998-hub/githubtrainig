@@ -2,3 +2,5 @@ requirment
 colors
 type option 
 vibrate
+dark mode
+code
